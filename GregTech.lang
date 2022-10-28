@@ -1410,7 +1410,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_1178_Index_10=範囲: 96ブロック
     S:TileEntity_DESCRIPTION_1178_Index_2=3x1x3の強化タングステン鋼製マシン外装の足場
     S:TileEntity_DESCRIPTION_1178_Index_3=1x3x1 強化タングステン鋼製マシン外装の柱(足場中央)
-    S:TileEntity_DESCRIPTION_1178_Index_4=1x3x1 タングステン鋼製の足場 (柱の側面と上)
+    S:TileEntity_DESCRIPTION_1178_Index_4=1x3x1 タングステン鋼製の骨組み (柱の側面と上)
     S:TileEntity_DESCRIPTION_1178_Index_5=1x インプットハッチ (掘削用油用、1段目の外装と置換)
     S:TileEntity_DESCRIPTION_1178_Index_6=1x インプットバス (採掘用パイプ用、1段目の外装と置換。必須ではない)
     S:TileEntity_DESCRIPTION_1178_Index_7=1x アウトプットバス (1段目の外装と置換)
